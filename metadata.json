@@ -1,0 +1,6 @@
+{
+  "name": "AgriLoan Pulse - Disbursement Report Generator",
+  "description": "Enterprise agriculture loan disbursement report generator with banking database connector, CBS sync, multi-parameter filtering, audit compliance, and multi-page professional PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
